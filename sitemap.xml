@@ -1,8 +1,9 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://mr-tushar.vercel.app/">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc></loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://mr-tushar.vercel.app/</loc>
   </url>
+
 </urlset>
